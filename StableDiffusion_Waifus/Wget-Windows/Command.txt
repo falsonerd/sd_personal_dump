@@ -1,0 +1,4 @@
+--content-disposition = Keep server filename
+--q / --quiet = Quiet mode
+--i {file} = download url from file
+--show-progress = Show progress with --quiet
