@@ -1,0 +1,5 @@
+black GNTZ:1.3 N3XU5-7:0.6 with large blue led lights and long hair bigheadmode is V3rh03v3n:3, pffpffpff:4, holding a gun, with a motorcycle behind her, in a alley at night with neon lights,
+Negative prompt: NEGS_Bad_Image_v4, NEGS_Bad_Prompt_v2 verybadimagenegative_v1.2-6400
+Steps: 30, Sampler: Euler a, CFG scale: 5, Seed: 1028634420, Size: 448x640, Model hash: c06bfd0dd4, Model: Homosapian, Denoising strength: 0.7, Clip skip: 2, ENSD: 43210, Hires upscale: 1.5, Hires upscaler: Latent
+Template: black GNTZ:1.3 N3XU5-7:0.6 with large blue led lights and long hair bigheadmode is V3rh03v3n:3, pffpffpff:4, holding a gun, with a motorcycle behind her, in a alley at night with neon lights,
+Negative Template: NEGS_Bad_Image_v4, NEGS_Bad_Prompt_v2 verybadimagenegative_v1.2-6400
