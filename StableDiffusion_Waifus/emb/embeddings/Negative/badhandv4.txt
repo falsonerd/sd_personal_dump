@@ -1,0 +1,3 @@
+best quality, masterpiece, 1girl, solo, light blue hair, pink eyes, seductive smile, side ponytail, serafuku, pleated skirt, holding apple
+Negative prompt: badv3, badhandv4
+Size: 640x960, Seed: 3084032631, Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 11, Clip skip: 2, Model hash: 0021652ff7
